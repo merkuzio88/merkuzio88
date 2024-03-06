@@ -1,6 +1,7 @@
 <h1 align="center">Привет! Меня зовут Павел Куликов
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">QA engineer в компании Siberian Wellness с апреля 2023 года<br>
+<h3 align="center">QA Automation Engineer в компании Start X с ноября 2023 года<br>
+  QA engineer в компании Siberian Wellness с апреля 2023 года по ноябрь 2023 года<br>
   Специалист тестирования в компании БКС с августа 2022 года по апрель 2023 года<br>
   С ноября 2021 года по апрель 2022 года работал в компании "Яндекс" на должности "Тестировщик - асессор"<br>
   С марта 2022 по август 2022 года обучался на курсе "Тестирование ПО" Вадима Ксендзова</h3>
